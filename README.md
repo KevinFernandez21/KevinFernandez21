@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python, JS, TS on AI models and projects scholars, I'm looking to collaborate on WIDS projects and TAWS club , I'm looking for help with <br>security issue and robots, I'm currentlu learning low codigo and Deep Learning, Ask me about web , API and AI modesl, My love for AI only started with a deep learning project. 
+I am currently working with Python, JavaScript, and TypeScript on AI models and academic projects. I am eager to collaborate on WiDS initiatives and with the TAWS club. I’m seeking support in areas related to security issues and robotics. At present, I am learning low-code development and deep learning. Feel free to ask me about web development, APIs, and AI models. My passion for AI began with a deep learning project, and it continues to drive my growth and exploration in this exciting field.
 
 
 ## 🌐 Socials:
